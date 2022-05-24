@@ -3,11 +3,4 @@ torch==1.8.1+cpu
 torchvision==0.9.1+cpu
 fastai
 voila
-<<<<<<< HEAD
 ipywidgets
-=======
-fastai
-pillow
-packaging
-ipywidgets
->>>>>>> e6f1ebfda8d9ca811d86f68e62aaf814e6baede5
