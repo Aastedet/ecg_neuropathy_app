@@ -1,0 +1,1 @@
+web: voila --port=$PORT --no-browser --enable_nbextensions=ecg_neuropathy_app.ipynb
